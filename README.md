@@ -14,7 +14,7 @@ Here you'll find a collection of my projects, experiments, and learning journeys
   - [AI-Tutor](https://github.com/Sang20225664/AI-Tutor): An AI-powered tutoring platform.
 - 🌱 **Learning:** Advanced cloud architectures & state-of-the-art AI/ML techniques.
 - 🎓 **Education:**  
-  - (Add your school/university, degree, and graduation year here!)
+  - Ha Noi University of Science and Technology
 
 ---
 
@@ -46,9 +46,9 @@ Here you'll find a collection of my projects, experiments, and learning journeys
 
 ## 🌐 Connect with Me
 
-- 📫 Email: (add your professional email here)
-- 💼 LinkedIn: (add your LinkedIn here)
-- 🌍 Portfolio: (add your portfolio/personal website here)
+- 📫 Email: sanga4k48@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sang-nguyen2910/
+
 
 ---
 
