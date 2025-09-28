@@ -8,7 +8,7 @@ Here you'll find a collection of my projects, experiments, and learning journeys
 
 ## 🚀 About Me
 
-- 💡 **Interests:** DevOps, AI, Cloud Computing, Web Development, and Software Engineering.
+- 💡 **Interests:** DevOps, Cloud Computing, AI,  Web Development, and Software Engineering.
 - 🔭 **Currently working on:**  
   - [Azure_intern_lab](https://github.com/Sang20225664/Azure_intern_lab): Hands-on labs and resources for Azure.
   - [AI-Tutor](https://github.com/Sang20225664/AI-Tutor): An AI-powered tutoring platform.
